@@ -1,0 +1,23 @@
+{
+  "name": "lesson-21",
+  "version": "1.0.0",
+  "description": "lesson 21",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ggh0stt1/lesson-21.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ggh0stt1/lesson-21/issues"
+  },
+  "homepage": "https://github.com/ggh0stt1/lesson-21#readme",
+  "devDependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
